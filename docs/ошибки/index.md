@@ -1,6 +1,6 @@
 ---
 title: Ошибки
-nav_order:
+layout: default
 ---
 
 #  Ошибки
