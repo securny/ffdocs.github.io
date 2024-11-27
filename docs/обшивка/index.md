@@ -23,7 +23,7 @@ layout: default
 # Кастомные
 Кастомные зашивки корпуса: 
 - [Минимум пластика](https://t.me/c/2000598629/41834/48331)
-- [Самая практичная] (https://t.me/c/2000598629/2226/247251)
+- [Самая практичная](https://t.me/c/2000598629/2226/247251)
 - [ILYAS mod AD5M](https://t.me/ILYAS_mod_AD5m)
 - [Альтернативный практичный вариант с малым количеством печатных деталей](https://www.printables.com/model/1002724-flashforge-adventurer-5m-enclosure/files)
 - [Кастомная версия зашивки под панели из оригинальной зашивки](https://www.printables.com/model/1063430-flashforge-ad5m-minimal-enclosure)
