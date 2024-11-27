@@ -1,6 +1,5 @@
 ---
 title: Ошибки
-layout: default
 ---
 
 #  Ошибки
